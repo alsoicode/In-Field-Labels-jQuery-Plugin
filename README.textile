@@ -21,7 +21,7 @@ IE6+, WebKit Browsers (Safari, Chrome), Firefox 2+
 
 &#42; IE6 requires a background-color be set on the label to match the background of the field.
 
-h2. Know Issues
+h2. Known Issues
 
 Browser Auto-Complete can cause problems in hiding the labels. Less of an issue for Login Boxes, but much more of an issue with comment forms.
 
